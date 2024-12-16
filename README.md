@@ -24,7 +24,7 @@ I'm currently working on some TASes of some arcade games; specifically those tha
 either because there's little to no TASes of them or because there's little to no gameplay of them
 
 ### Currently working on
-- Dig Dug II TAS (Goal: final level?)
+- Rendering/recording Dig Dug II TAS (99 rounds)
 - https://github.com/Talon125/talon-vue-sass-template/tree/ark-ui (albeit quite slowly)
 
 ### On my radar

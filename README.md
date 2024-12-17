@@ -19,12 +19,7 @@ Here are some ideas to get you started:
 # Hello, World!
 I'll change this from time-to-time. For now, I'll show what I'm currently up to.
 
-## 2024-12-12  
-I'm currently working on some TASes of some arcade games; specifically those that are obscure on YouTube;
-either because there's little to no TASes of them or because there's little to no gameplay of them
-
 ### Currently working on
-- Rendering/recording Dig Dug II TAS (99 rounds)
 - https://github.com/Talon125/talon-vue-sass-template/tree/ark-ui (albeit quite slowly)
 
 ### On my radar

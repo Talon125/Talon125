@@ -21,9 +21,12 @@ I'll change this from time-to-time. For now, I'll show what I'm currently up to.
 
 ### Currently working on
 - https://github.com/Talon125/talon-vue-sass-template/tree/ark-ui (albeit quite slowly)
+  - [ ] Mockup in Affinity Designer
+  - [ ] Implement
+  - [ ] Figure out hosting options
 
 ### On my radar
+- Tetra Legends Ultimate (remove fixedText strings to make them translatable)
 - Galaga '88 TAS (Goal: complete game with 1 ship (no double/triple ships allowed))
 - Tetris (Arcade, Atari) TAS (2 player, not sure where to stop)
 - Xevious TAS (Goal: complete game)
-- Tetra Legends Ultimate (remove fixedText strings to make them translatable)

@@ -22,8 +22,10 @@ I'll change this from time-to-time. For now, I'll show what I'm currently up to.
 ### Currently working on
 - Sorting out my personal data (archives, backups, ...)
 - https://github.com/Talon125/talon-vue-sass-template/tree/ark-ui (albeit quite slowly)
-  - [ ] Mockup in Affinity Designer
-  - [ ] Implement
+  - [ ] Navbar mobile view
+  - [ ] Containers
+  - [ ] Buttons
+  - [ ] Recreate pages
   - [ ] Figure out hosting options
 
 ### On my radar

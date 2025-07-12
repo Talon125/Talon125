@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 I'll change this from time-to-time. For now, I'll show what I'm currently up to.
 
 ### Currently working on
+- Checking out Typst CLI
 - Adding new content to my website
 
 ### On my radar

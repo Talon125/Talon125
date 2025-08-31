@@ -19,12 +19,14 @@ Here are some ideas to get you started:
 # Hello, World!
 I'll change this from time-to-time. For now, I'll show what I'm currently up to.
 
+Last updated: 2025-08-31
+
 ### Currently working on
-- Checking out Typst CLI
+- Preparing for University of Applied Sciences (Bachelor's study)
+- Tetra Legends Ultimate (remove fixedText strings to make them translatable)
 - Adding new content to my website
 
 ### On my radar
-- Tetra Legends Ultimate (remove fixedText strings to make them translatable)
 - Galaga '88 TAS (Goal: complete game with 1 ship (no double/triple ships allowed))
 - Tetris (Arcade, Atari) TAS (2 player, not sure where to stop)
 - Xevious TAS (Goal: complete game)

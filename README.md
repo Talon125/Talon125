@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 # Hello, World!
 I'll change this from time-to-time. For now, I'll show what I'm currently up to.
 
-Last updated: 2025-08-31
+Last updated: 2025-09-08
 
 ### Currently working on
-- Preparing for University of Applied Sciences (Bachelor's study)
-- Tetra Legends Ultimate (remove fixedText strings to make them translatable)
 - Adding new content to my website
+- Stuff regarding my University of Applied Sciences (Bachelor's study)
+- Tetra Legends Ultimate (remove fixedText strings to make them translatable)
 
 ### On my radar
 - Galaga '88 TAS (Goal: complete game with 1 ship (no double/triple ships allowed))

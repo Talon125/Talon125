@@ -24,7 +24,7 @@ Last updated: 2026-07-06
 ### Currently working on
 - Tetris Party TAS of every mode
 - Record extended OST of Tetris Party and upload it to YouTube
-- Record extended OST of Tetris Party and upload it to YouTube
+- Record extended OST of Tetris Party Deluxe and upload it to YouTube
 
 ### On my radar
 - Tetris Party Deluxe TAS of every mode

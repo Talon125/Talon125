@@ -19,14 +19,15 @@ Here are some ideas to get you started:
 # Hello, World!
 I'll change this from time-to-time. For now, I'll show what I'm currently up to.
 
-Last updated: 2026-07-06
+Last updated: 2026-08-08
 
 ### Currently working on
-- Tetris Party TAS of every mode
-- Record extended OST of Tetris Party and upload it to YouTube
-- Record extended OST of Tetris Party Deluxe and upload it to YouTube
+- Check out Godot
 
 ### On my radar
+- Update my website
+- Record extended OST of Tetris Party Deluxe and upload it to YouTube
+- Tetris Party TAS of every mode
 - Tetris Party Deluxe TAS of every mode
 - Introduction to FL Studio
 - Galaga '88 TAS (Goal: complete game with 1 ship (no double/triple ships allowed))
@@ -35,6 +36,5 @@ Last updated: 2026-07-06
 - Rewriting "my" LaTeX calendar in Typst
 - Focusing on University of Applied Sciences (Bachelor's degree program)
 - Adding new content to my website
-- Check out Godot
 - Check out Pre-Rendering / Static Site Generation (e.g. VuePress, Nuxt)
 - Check out Rust

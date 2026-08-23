@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 # Hello, World!
 I'll change this from time-to-time. For now, I'll show what I'm currently up to.
 
-Last updated: 2026-08-08
+Last updated: 2026-08-23
 
 ### Currently working on
+- Record extended OST of Tetris Party Deluxe and upload it to YouTube
 - Check out Godot
 
 ### On my radar
 - Update my website
-- Record extended OST of Tetris Party Deluxe and upload it to YouTube
 - Tetris Party TAS of every mode
 - Tetris Party Deluxe TAS of every mode
 - Introduction to FL Studio
